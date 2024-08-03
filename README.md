@@ -16,18 +16,19 @@ This project was developed in MATLAB 2023a. This program does not use a particul
    git clone https://github.com/LiuZhenchang/UAV_Cooperative_Search.git
    ```
 
-2. Open the cooperative-search folder in MATLAB (set the Current Folder as cooperative-search).
+2. Open the UAV_Cooperative_Search folder in MATLAB.
 
 3. Open the file “run_demo.m”, set demo_index=1, and run the script. The program updates the search results in the figure every ten search decisions. Finally, you will see the search results of 4 homogenous UAVs with stationary obstacles. The search results may be different each time the program is run.
 
-<p align="center">
-  <img src="Demo/Demo1/results/UAV_Trajectory.png" width = "600" height = "240"/>
-</p>
+   <p align="center">
+     <img src="Demo/Demo1/results/UAV_Trajectory.png" width = "560" height = "224"/>
+   </p>
+
 
 4. Open the file “run_demo.m”, set demo_index=2, and run the script. You will see the search results of 5 heterogeneous UAVs with stationary obstacles. In the UAV trajectories figure, you can use the Tools of Rotate 3D to adjust the angle of view.
 
    <p align="center">
-     <img src="Demo/Demo2/results/UAV_Trajectory2.png" width = "600" height = "240"/>
+     <img src="Demo/Demo2/results/UAV_Trajectory2.png" width = "560" height = "224"/>
    </p>
 
 5. Open the file "run_demo.m", set demo_index=3, and run the script. You will see the search results of 5 heterogeneous UAVs with dynamic obstacles. After the program is complete, run the following program, which can generate a video of UAVs' cooperative search process.
@@ -49,3 +50,5 @@ This project was developed in MATLAB 2023a. This program does not use a particul
      <img src="Demo/Demo3/results/UAV_Trajectory.gif" width = "560" height = "240"/>
    </p>
 
+# Licence
+The source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
