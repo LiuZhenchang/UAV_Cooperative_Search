@@ -4,7 +4,7 @@ This repository provides a homogeneous/heterogeneous unmanned aerial vehicles (U
 
 Please cite our paper if you use this project in your research:
 
-* Heterogeneous Unmanned Aerial Vehicles Cooperative Search Approach for Complex Environments, Zhenchang Liu, Mingrui Hao
+* Zhenchang Liu, Mingrui Hao, "Heterogeneous Unmanned Aerial Vehicles Cooperative Search Approach for Complex Environments,"  Engineering Applications of Artificial Intelligence, 138 (2024), 109384.
 
 # Quick Start
 
